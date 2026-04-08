@@ -1,0 +1,12 @@
+{
+  "cafe_name": "BeanScene",
+  "analysis_week": "2024-W04",
+  "performance_thresholds": {
+    "high": 250.00,
+    "medium": 150.00
+  },
+  "low_performer_threshold": 150.00,
+  "currency": "USD",
+  "hours_open_per_day": 9,
+  "locations": ["Downtown", "Westside"]
+}
